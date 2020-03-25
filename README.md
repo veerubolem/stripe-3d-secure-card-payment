@@ -1,4 +1,4 @@
-# stripe-3d-secure-card-payment
+# Stripe 3D Secure Card Payment PHP Script 
 This is Stripe PHP library to accept card payments for php based web applications.
 <h3>Requirements</h3>
 PHP 5.6.0 and later.<br>
